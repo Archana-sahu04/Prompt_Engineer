@@ -30,3 +30,53 @@ Prompt Engineering is the art of designing inputs to get the best possible outpu
 4. Prompt Optimization Experiments
 - Compare different prompts
 - Analyze output quality
+
+**⚙️ Technologies Used**
+- Python 🐍
+- OpenAI API / LLM APIs
+- Streamlit (for UI)
+- Pandas & NumPy
+- LangChain
+
+**🚀 Getting Started**
+
+**1. Clone the Repository**
+
+git clone https://github.com/your-username/prompt-engineering-projects.git
+
+cd prompt-engineering-projects
+
+**2. Create Virtual Environment**
+
+python -m venv venv
+
+source venv/bin/activate 
+
+**3. Install Dependencies**
+
+pip install -r requirements.txt
+
+**4. Add API Key**
+
+OPENAI_API_KEY=your_api_key_here
+
+**5. Run the App**
+
+streamlit run app.py
+
+**💡 Features**
+- Clean and modular code
+- Easy to understand prompts
+- Beginner-friendly projects
+- Real-world applications
+
+**📊 Use Cases**
+- AI Chatbots
+- Automated Content Creation
+- Customer Support Systems
+- Document Analysis
+
+**🙌 Acknowledgements**
+- OpenAI
+- LangChain
+- Streamlit
