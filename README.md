@@ -1,4 +1,3 @@
-# Prompt_Engineer
 
 **🚀 Prompt Engineering Projects**
 
@@ -69,6 +68,11 @@ streamlit run app.py
 **output1-app.py**
 <img width="1911" height="1002" alt="image" src="https://github.com/user-attachments/assets/f7252b8d-477c-48db-b19f-e84b2a9854f2" />
 
+**output2-gemini_prompt.py**
+<img width="1902" height="1012" alt="image" src="https://github.com/user-attachments/assets/af307ca3-89d8-4133-bdcf-fd62cf3df27c" />
+
+**output3-prompt.py**
+<img width="1908" height="895" alt="image" src="https://github.com/user-attachments/assets/7f126513-e0d3-4d4e-8fd9-b38b05082cbd" /># Prompt_Engineer
 
 
 **💡 Features**
