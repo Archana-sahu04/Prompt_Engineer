@@ -64,6 +64,13 @@ OPENAI_API_KEY=your_api_key_here
 
 streamlit run app.py
 
+**Output**
+
+**output1-app.py**
+<img width="1911" height="1002" alt="image" src="https://github.com/user-attachments/assets/f7252b8d-477c-48db-b19f-e84b2a9854f2" />
+
+
+
 **💡 Features**
 - Clean and modular code
 - Easy to understand prompts
